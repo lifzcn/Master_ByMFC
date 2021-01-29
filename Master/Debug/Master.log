@@ -1,0 +1,6 @@
+﻿  Master.cpp
+  MasterDlg.cpp
+D:\VC_Project\Master2.1\Master\MasterDlg.cpp(296,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  mscomm.cpp
+  stdafx.cpp
+  Master.vcxproj -> D:\VC_Project\Master2.1\Debug\Master.exe
